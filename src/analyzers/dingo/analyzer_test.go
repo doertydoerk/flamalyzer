@@ -3,8 +3,8 @@ package dingo_test
 import (
 	"testing"
 
-	"flamingo.me/flamalyzer/src/analyzers/dingo/checks/bind"
-	"flamingo.me/flamalyzer/src/analyzers/dingo/checks/inject"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/dingo/checks/bind"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/dingo/checks/inject"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

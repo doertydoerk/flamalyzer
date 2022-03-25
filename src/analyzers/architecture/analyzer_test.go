@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"flamingo.me/flamalyzer/src/analyzers/architecture/checks/dependency"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/architecture/checks/dependency"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

@@ -3,9 +3,9 @@ package architecture
 
 import (
 	"flamingo.me/dingo"
-	"flamingo.me/flamalyzer/src/analyzers"
-	"flamingo.me/flamalyzer/src/analyzers/architecture/checks/dependency"
-	"flamingo.me/flamalyzer/src/flamalyzer/configuration"
+	"github.com/doertydoerk/flamalyzer/src/analyzers"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/architecture/checks/dependency"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/configuration"
 	"golang.org/x/tools/go/analysis"
 )
 

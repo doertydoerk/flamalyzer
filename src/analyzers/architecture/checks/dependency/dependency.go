@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	flanalysis "flamingo.me/flamalyzer/src/flamalyzer/analysis"
+	flanalysis "github.com/doertydoerk/flamalyzer/src/flamalyzer/analysis"
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/analysis/passes/inspect"
 	"golang.org/x/tools/go/ast/inspector"

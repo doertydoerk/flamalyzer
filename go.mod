@@ -1,4 +1,4 @@
-module flamingo.me/flamalyzer
+module github.com/doertydoerk/flamalyzer
 
 go 1.16
 

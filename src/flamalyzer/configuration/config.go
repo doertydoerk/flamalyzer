@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"flamingo.me/flamalyzer/src/flamalyzer/log"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/log"
 	"github.com/spf13/pflag"
 
 	"gopkg.in/yaml.v2"

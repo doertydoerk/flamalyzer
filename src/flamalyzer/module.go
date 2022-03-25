@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"flamingo.me/dingo"
-	"flamingo.me/flamalyzer/src/flamalyzer/configuration"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/configuration"
 )
 
 // module to set up the core functionality of Flamalyzer

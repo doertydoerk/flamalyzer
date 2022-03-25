@@ -1,8 +1,8 @@
 package flamalyzer
 
 import (
-	"flamingo.me/flamalyzer/src/analyzers"
-	"flamingo.me/flamalyzer/src/flamalyzer/configuration"
+	"github.com/doertydoerk/flamalyzer/src/analyzers"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/configuration"
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/analysis/multichecker"
 )

@@ -3,10 +3,10 @@ package dingo
 
 import (
 	"flamingo.me/dingo"
-	"flamingo.me/flamalyzer/src/analyzers"
-	"flamingo.me/flamalyzer/src/analyzers/dingo/checks/bind"
-	"flamingo.me/flamalyzer/src/analyzers/dingo/checks/inject"
-	"flamingo.me/flamalyzer/src/flamalyzer/configuration"
+	"github.com/doertydoerk/flamalyzer/src/analyzers"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/dingo/checks/bind"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/dingo/checks/inject"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/configuration"
 	"golang.org/x/tools/go/analysis"
 )
 

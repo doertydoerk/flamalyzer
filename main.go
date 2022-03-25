@@ -2,9 +2,9 @@ package main
 
 import (
 	"flamingo.me/dingo"
-	"flamingo.me/flamalyzer/src/analyzers/architecture"
-	dingoAnalyzer "flamingo.me/flamalyzer/src/analyzers/dingo"
-	"flamingo.me/flamalyzer/src/flamalyzer"
+	"github.com/doertydoerk/flamalyzer/src/analyzers/architecture"
+	dingoAnalyzer "github.com/doertydoerk/flamalyzer/src/analyzers/dingo"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer"
 )
 
 func main() {

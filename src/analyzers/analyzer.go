@@ -3,7 +3,7 @@ package analyzers
 import (
 	"reflect"
 
-	"flamingo.me/flamalyzer/src/flamalyzer/configuration"
+	"github.com/doertydoerk/flamalyzer/src/flamalyzer/configuration"
 	"github.com/mitchellh/mapstructure"
 	"golang.org/x/tools/go/analysis"
 )
